@@ -15,8 +15,8 @@ Stages: **Experiment** (exploratory work), **Prototype** (working proof of conce
 ## Repository organization
 
 - **`portfolio` (this repository):** Public project index, curated case studies, and portfolio website.
-- **`personal-lab` (planned):** Private-first workspace for small experiments, notebooks, and exploratory scripts.
-- **`project-template` (planned):** Reusable starter files, including a README, project recovery notes, dependencies, and ignore rules.
+- **`personal-lab` (private; created):** Workspace for small experiments, notebooks, and exploratory scripts. Initialization changes are proposed in its draft pull request.
+- **`project-template` (private; created):** Reusable starter files, including a README, project recovery notes, and ignore rules. Initialization changes are proposed in its draft pull request.
 - **Standalone repositories (as needed):** Projects that acquire their own dependencies, tests, release history, or hosted application.
 
 ## Promotion criteria
